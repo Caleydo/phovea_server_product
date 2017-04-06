@@ -1,0 +1,14 @@
+[
+  {
+    "type": "api",
+    "label": "phovea_server",
+    "repo": "phovea/phovea_server",
+    "branch": "master",
+    "additional": [
+      {
+        "name": "phovea_data_hdf",
+        "repo": "phovea/phovea_data_hdf"
+      }
+    ]
+  }
+]
