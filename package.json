@@ -15,7 +15,7 @@
     "yargs-parser": "4.2.0",
     "yeoman-environment": "1.6.6"
   },
-  "name": "phovea_product",
+  "name": "phovea_server_product",
   "description": "Phovea Server Product",
   "homepage": "https://phovea.caleydo.org",
   "version": "1.0.0-SNAPSHOT",
