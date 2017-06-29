@@ -26,10 +26,10 @@
   },
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/Caleydo/phovea_product/issues"
+    "url": "https://github.com/phovea/phovea_server_product/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Caleydo/phovea_product.git"
+    "url": "https://github.com/phovea/phovea_server_product.git"
   }
 }
